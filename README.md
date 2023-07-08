@@ -22,6 +22,14 @@ The "EmployeesSQL" directory contains the SQL queries to create the SQL tables a
 "data_analysis.sql"  use the queries in this file for data analysis.  
 "ERD.png" - Entity Relationship Diagram - showcases the relationships of the tables  
 
+Import Order of CSVs:
+1. titles.csv
+2. employees.csv
+3. salaries.csv
+4. departments.csv
+5. dept_emp.csv
+6. dept_manager.csv
+
 Data Analysis Queries:  
  1. List the employee number, last name, first name, sex, and salary of each employee.  
  2. List the first name, last name, and hire date for the employees who were hired in 1986.  
